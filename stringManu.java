@@ -28,7 +28,7 @@ public class stringManu {
     System.out.println("");
     System.out.println("Trimmed string "+s.trim());
 
-    System.out.println("")
+    System.out.println("");
 
     }
     //contruct overloading
